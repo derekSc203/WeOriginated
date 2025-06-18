@@ -1,0 +1,93 @@
+Adult@DAEDMAC13 ~ % pwd
+/Users/adult
+Adult@DAEDMAC13 ~ % ls
+Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+Adult@DAEDMAC13 ~ % cd Desktop 
+Adult@DAEDMAC13 Desktop % ls
+DerekSC - WeOriginated
+Identify and Analyze Cyber Threats images.pdf
+Screenshot 2025-04-28 at 12.18.10 PM.png
+Screenshot 2025-04-28 at 12.18.39 PM.png
+Trace the Breach
+Tyrell-DAE - GitHub
+WO
+tyrell_f (First one)
+webdev-backend-intro
+Adult@DAEDMAC13 Desktop % cd DerekSC\ -\ WeOriginated 
+Adult@DAEDMAC13 DerekSC - WeOriginated % ls
+cyber_threats_and_vulnerabilities_1	network_security_1
+cybersecurity_basics_1			prompt_engineering_1
+design_1				unix_1
+figma_1					version_control_1
+Adult@DAEDMAC13 DerekSC - WeOriginated % cd unix_1 
+Adult@DAEDMAC13 unix_1 % 1s
+zsh: command not found: 1s
+Adult@DAEDMAC13 unix_1 % touch first.txt
+Adult@DAEDMAC13 unix_1 % touch second.txt
+Adult@DAEDMAC13 unix_1 % cat first.txt
+We originated%                                                                  Adult@DAEDMAC13 unix_1 % touch cat
+Adult@DAEDMAC13 unix_1 % histor -60
+zsh: command not found: histor
+Adult@DAEDMAC13 unix_1 % history -60
+   65  Pwd
+   66  ls
+   67  clear
+   68  cd weoriginated
+   69  cd dereksc weoriginated
+   70  ls
+   71  clear
+   72  ls
+   73  ls
+   74  cd desktop
+   75  cd "DerekSC - WeOriginated"
+   76  ls
+   77  git init
+   78  git config --global user.name "DerekSc203"
+   79  git config --global user.email "DerekCarwin@gmail.com"
+   80  git remote add origin https://github.com/derekSc203/WeOriginated.git
+   81  git add .
+   82  git commit -m "created course folders and submitting a few pictures from my recent project"
+   83  git commit -m "created course folders and submitting a few pictures from my recent project and the document"
+   84  git add .
+   85  git commit -m "created course folders and submitting a few pictures from my recent project and the document"
+   86  git push --all
+   87  git push --all
+   88  git push --all
+   89  git push --all
+   90  pwd
+   91  ls
+   92  cd desktop
+   93  DerekSC-Weoriginated
+   94  DerekSC - WeOriginated
+   95  cd Desktop
+   96  ls
+   97  ls
+   98  git add . 
+   99  commit -m scanned a website for vulnerabilities
+  100  git commit -m scanned a website for vulnerabilities
+  101  git commit -m scanned a website for vulnerability
+  102  git add .
+  103  git commit -m"scanned VuL"
+  104  git push --all
+  105  history -60
+  106  test
+  107  history -60
+  108  man ls
+  109  cd ..
+  110  ls
+  111  cd
+  112  pwd
+  113  ls
+  114  cd Desktop
+  115  ls
+  116  cd DerekSC\ -\ WeOriginated
+  117  ls
+  118  cd unix_1
+  119  1s
+  120  touch first.txt
+  121  touch second.txt
+  122  cat first.txt
+  123  touch cat
+  124  histor -60
+Adult@DAEDMAC13 unix_1 % 
